@@ -10,9 +10,6 @@ namespace SIC.Intranet.Dominio
         {
             GC.Collect();
 
-
-
-
        
         }
 
