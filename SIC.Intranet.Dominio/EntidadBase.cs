@@ -9,6 +9,11 @@ namespace SIC.Intranet.Dominio
         public void Dispose()
         {
             GC.Collect();
+
+
+
+
+       
         }
 
         #endregion
